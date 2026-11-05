@@ -7,7 +7,7 @@ Facts carry tags: [IC] independently corroborated, [MS] from the people proposin
 ## Start here
 
 - [Welcome to Koop](https://koop.valleyofgrace.co.za/): what the site is and where to begin
-- [About Koop](https://koop.valleyofgrace.co.za/about): who it is for, who keeps it, how it relates to the Ward 2 Development Forum, the meaning of the tags
+- [About Koop](https://koop.valleyofgrace.co.za/about): who it is for, who keeps it, how it relates to the DevForum (Ward 2 Development Forum), the meaning of the tags
 - [How to Take Part](https://koop.valleyofgrace.co.za/how-to-take-part): joining the WhatsApp group and meetings, and getting something onto the site
 
 ## The work
@@ -21,6 +21,6 @@ Facts carry tags: [IC] independently corroborated, [MS] from the people proposin
 
 ## Background, on other sites
 
-- [Valley of Grace Agri-Heritage Cooperative](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative): the idea as written up for the Ward 2 Development Forum
+- [Valley of Grace Agri-Heritage Cooperative](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative): the idea as written up for the DevForum
 - [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative): the route this site tracks
-- [Ward 2 Development Forum](https://df.valleyofgrace.co.za/): the valley's public register of initiatives
+- [DevForum](https://df.valleyofgrace.co.za/): the Ward 2 Development Forum, and the valley's public register of initiatives

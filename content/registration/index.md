@@ -1,6 +1,6 @@
 ---
 title: The Route to Registration
-description: "The steps from a group of interested people to a registered cooperative, following the suggested route on the Forum's site, with what the group has done at each step."
+description: "The steps from a group of interested people to a registered cooperative, following the suggested route on the DevForum's site, with what the group has done at each step."
 type: page
 tags:
   - koop/registration
@@ -12,7 +12,7 @@ right_of_reply: pending
 updated: 2026-11-05
 ---
 
-This page tracks the group's progress towards a registered cooperative. It follows [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative) on the Forum's site, which is itself still to be tabled at the Forum's November 2026 meeting [MS]. The government offices and training providers named below have not been asked about this page.
+This page tracks the group's progress towards a registered cooperative. It follows [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative) on the DevForum's site, which is itself still to be tabled at the DevForum's November 2026 meeting [MS]. The government offices and training providers named below have not been asked about this page.
 
 ## What the law requires
 
@@ -28,7 +28,7 @@ This page tracks the group's progress towards a registered cooperative. It follo
 | Meet everyone interested and record what each person does, where, and what training they have | Not yet | See [[members/index\|Who Is Taking Part]] |
 | Choose a structure: one cooperative, or smaller ones that later join a larger one | Not yet | |
 | Ask the SETA, the agriculture office and the municipality's Economic Development office the questions the route lists | Not yet | |
-| Tell the Forum, so the idea can be listed | Not yet | |
+| Tell the DevForum, so the idea can be listed | Not yet | |
 
 ## Stage 2: Register
 
@@ -64,6 +64,6 @@ Any use of land in Genadendal, Bereaville, Voorstekraal, Boschmanskloof or Madib
 
 ## References
 
-- Ward 2 Development Forum. [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative). The four stages and their steps.
+- DevForum (Ward 2 Development Forum). [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative). The four stages and their steps.
 - Companies and Intellectual Property Commission (CIPC). [Cooperative registration](https://www.cipc.co.za/?page_id=2197). Types of cooperative and who registers them.
 - Companies and Intellectual Property Commission (CIPC). [Model constitution for an agricultural primary cooperative](https://www.cipc.co.za/wp-content/uploads/2021/05/AGRICULTURAL_CO-OP_FIX_2018.pdf). Voting and use of surplus.

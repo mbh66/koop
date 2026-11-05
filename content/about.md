@@ -1,6 +1,6 @@
 ---
-title: About Koop
-description: "Who Koop is for, who keeps it up to date, how it relates to the Ward 2 Development Forum, and what the letters in square brackets after facts mean."
+title: About the Koop
+description: Who Koop is for, who keeps it up to date, how it relates to the DevForum, and what the letters in square brackets after facts mean.
 type: page
 tags:
   - site
@@ -10,7 +10,7 @@ draft: false
 updated: 2026-11-05
 ---
 
-Koop is a shared notebook for the people planning the Genadendal Cooperative. It supports the group's weekly meetings: the agenda goes up before each meeting, the notes go up after it, and decisions are recorded in one place so nobody has to search back through WhatsApp.
+*Koop* is a shared notebook for the people planning the Genadendal Cooperative. It supports the group's weekly meetings: the agenda goes up before each meeting, the notes go up after it, and decisions are recorded in one place so nobody has to search back through WhatsApp.
 
 ## Who it's for
 
@@ -22,7 +22,7 @@ One editor, Michael Haupt, makes every change, working from what members send to
 
 ## How it relates to the DevForum
 
-The idea for the cooperative came from a group of growers in Genadendal and was written up on the Ward 2 Development Forum's site [MS]. The Forum keeps that page and helps groups like this one find each other and connect with the municipality. It does not join or run any cooperative [MS]. This site is the group's own working space. Once the cooperative is formed, its members decide what happens to it.
+The idea for the cooperative came from a group of growers in Genadendal and was written up on the site of the DevForum (Ward 2 Development Forum) [MS]. The DevForum keeps that page and helps groups like this one find each other and connect with the municipality. It does not join or run any cooperative [MS]. This site is the group's own working space. Once the cooperative is formed, its members decide what happens to it.
 
 ## Who can see it
 
@@ -47,4 +47,4 @@ Statements without a tag are proposals. They describe what the cooperative *coul
 
 - [[index|Welcome to Koop]]
 - [[how-to-take-part|How to Take Part]]
-- [Valley of Grace Agri-Heritage Cooperative](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative) (the idea, on the Forum's site)
+- [Valley of Grace Agri-Heritage Cooperative](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative) (the idea, on the DevForum's site)

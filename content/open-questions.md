@@ -14,7 +14,7 @@ komitee_review: pending
 updated: 2026-11-05
 ---
 
-These are the questions the group needs to answer before the cooperative can be formed. They start from the list in the [cooperative idea](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative) on the Forum's site. When the group answers one, the answer goes on [[decisions/index|Decisions]] and the question is marked here with the date.
+These are the questions the group needs to answer before the cooperative can be formed. They start from the list in the [cooperative idea](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative) on the DevForum's site. When the group answers one, the answer goes on [[decisions/index|Decisions]] and the question is marked here with the date.
 
 ## Who and where
 
