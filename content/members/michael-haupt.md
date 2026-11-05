@@ -1,12 +1,15 @@
 ---
 title: Michael Haupt
-description: "Michael Haupt from Greyton is taking part in planning the Genadendal Cooperative and keeps this site up to date for the group."
+description: Michael Haupt from Greyton is taking part in planning the Genadendal Cooperative and keeps this site up to date for the group.
 type: member
 tags:
   - koop/member
   - lang/en
 town: Greyton
 skills:
+  - branding
+  - strategy
+  - collaboration
   - admin
 passions: []
 offers: Keeps the Koop site and its records up to date for the group
@@ -19,7 +22,9 @@ Michael Haupt lives in Greyton and is taking part in planning the cooperative. H
 
 ## Skills
 
-- Admin
+- Branding
+- Strategy
+- Collaboration
 
 ## Passions
 
