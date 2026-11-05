@@ -2,6 +2,8 @@
 title: Who Is Taking Part
 description: "Everyone taking part in planning the cooperative: name, town, how to reach them, their skills and passions, and what each could offer. Everyone listed has agreed to appear here."
 type: page
+cssclasses:
+  - hide-folder-listing
 tags:
   - koop/member
   - lang/en
