@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Koop: Agri-Heritage Co-operative"
+  pageTitle: "Genadendal Agri-Heritage Co-operative"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -233,10 +233,10 @@ plugins:
   - source: "./plugins/custom-footer"
     enabled: true
     options:
-      copyrightHolder: Koop founding group
-      notice: "<b>About:</b> The working space for valley growers and others planning the Valley of Grace Agri-Heritage Co-operative together. Nothing here is agreed until the members decide it."
+      copyrightHolder: Genadendal Koop
+      notice: "<b>About:</b> The working space for valley growers and others planning the Genadendal Co-operative together. Nothing here is agreed until the members decide it."
       links:
-        About Koop: /about
+        About the Koop: /about
         How to Take Part: /how-to-take-part
         Ward 2 Development Forum: https://df.valleyofgrace.co.za
         Valley of Grace: https://valleyofgrace.co.za
