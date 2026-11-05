@@ -45,7 +45,216 @@ views:
       - phone
       - skills
       - passions
-      - offers
+    sort:
+      - property: title
+        direction: ASC
+  # One view per skill. To add a skill: copy a block, change name and the value in contains(),
+  # and add the skill to the list on members/index.md.
+  - type: table
+    name: Growing
+    filters:
+      and:
+        - skills.contains("growing")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Livestock
+    filters:
+      and:
+        - skills.contains("livestock")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Cooking
+    filters:
+      and:
+        - skills.contains("cooking")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Baking
+    filters:
+      and:
+        - skills.contains("baking")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Preserving
+    filters:
+      and:
+        - skills.contains("preserving")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Crafts
+    filters:
+      and:
+        - skills.contains("crafts")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Art
+    filters:
+      and:
+        - skills.contains("art")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Building
+    filters:
+      and:
+        - skills.contains("building")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Selling
+    filters:
+      and:
+        - skills.contains("selling")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Marketing
+    filters:
+      and:
+        - skills.contains("marketing")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Guiding
+    filters:
+      and:
+        - skills.contains("guiding")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Heritage
+    filters:
+      and:
+        - skills.contains("heritage")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Teaching
+    filters:
+      and:
+        - skills.contains("teaching")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Bookkeeping
+    filters:
+      and:
+        - skills.contains("bookkeeping")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Admin
+    filters:
+      and:
+        - skills.contains("admin")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Driving
+    filters:
+      and:
+        - skills.contains("driving")
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
     sort:
       - property: title
         direction: ASC

@@ -23,9 +23,32 @@ Nobody listed here is a member of a cooperative yet. Membership starts only when
 
 ## Everyone taking part
 
-Use the tabs above the table to see everyone in one list, or grouped by town. Click a name to open that person's page.
+Use the tabs above the table to see everyone in one list, everyone grouped by town, or only the people with one skill. Someone with three skills appears under all three. Click a name to open that person's page.
 
 ![[members/members.base]]
+
+## Skills
+
+Each person's page lists one or more of these skills. The list is a starting point: when someone has a skill that is not here, send it to the WhatsApp group and the editor adds it, with its own tab in the table.
+
+| Skill | What it covers |
+|---|---|
+| Growing | Vegetables, fruit, herbs, seedlings, gardens |
+| Livestock | Chickens, pigs, goats, sheep, cattle, bees |
+| Cooking | Meals, catering, cooking for groups |
+| Baking | Bread, cakes, rusks, baked goods to sell |
+| Preserving | Jams, pickles, drying, bottling, other food that keeps |
+| Crafts | Sewing, weaving, beadwork, pottery, woodwork |
+| Art | Painting, music, performance, design |
+| Building | Construction, repairs, plumbing, electrical work, fencing |
+| Selling | Market stalls, shopkeeping, selling to restaurants and guesthouses |
+| Marketing | Social media, photography, writing, promotion |
+| Guiding | Tours, hikes, farm visits, hosting visitors |
+| Heritage | Knowledge of the valley's history, stories and traditions |
+| Teaching | Training, mentoring, working with young people |
+| Bookkeeping | Accounts, budgets, keeping track of money |
+| Admin | Organising, minutes, forms, paperwork |
+| Driving | Transport, deliveries, a vehicle the group could use |
 
 ## Organisations
 
