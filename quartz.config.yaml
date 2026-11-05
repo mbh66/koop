@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Genadendal Agri-Heritage Co-operative"
+  pageTitle: "Genadendal Cooperative Planner"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
