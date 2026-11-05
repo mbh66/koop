@@ -1,6 +1,6 @@
 ---
 title: Who Is Taking Part
-description: "Everyone taking part in planning the co-operative: name, village, how to reach them, and what each grows or offers. Everyone listed has agreed to appear here."
+description: "Everyone taking part in planning the cooperative: name, village, how to reach them, and what each grows or offers. Everyone listed has agreed to appear here."
 type: page
 tags:
   - koop/member
@@ -10,9 +10,9 @@ draft: false
 updated: 2026-11-05
 ---
 
-This page shows who is taking part in planning the co-operative, so members can see what skills, land and produce the group already has between them. It is the first task of the suggested route: meet everyone interested and record what each person does, where, and what training they have [MS].
+This page shows who is taking part in planning the cooperative, so members can see what skills, land and produce the group already has between them. It is the first task of the suggested route: meet everyone interested and record what each person does, where, and what training they have [MS].
 
-Nobody listed here is a member of a co-operative yet. Membership starts only when the co-operative is registered.
+Nobody listed here is a member of a cooperative yet. Membership starts only when the cooperative is registered.
 
 ## How people are listed
 
@@ -23,7 +23,7 @@ Nobody listed here is a member of a co-operative yet. Membership starts only whe
 
 ## Growers
 
-| Name | Village | Phone | Email | Grows or keeps | Could offer the co-operative |
+| Name | Village | Phone | Email | Grows or keeps | Could offer the cooperative |
 |---|---|---|---|---|---|
 | | | | | None listed yet. | |
 
@@ -31,13 +31,13 @@ Nobody listed here is a member of a co-operative yet. Membership starts only whe
 
 Processing, selling, guiding, training, bookkeeping, transport and similar.
 
-| Name | Village | Phone | Email | Skill | Could offer the co-operative |
+| Name | Village | Phone | Email | Skill | Could offer the cooperative |
 |---|---|---|---|---|---|
 | | | | | None listed yet. | |
 
 ## Organisations
 
-Gardens, projects and businesses that are taking part as organisations. A primary co-operative can be formed by two organisations, or by a mix of people and organisations that adds up to five [IC].
+Gardens, projects and businesses that are taking part as organisations. A primary cooperative can be formed by two organisations, or by a mix of people and organisations that adds up to five [IC].
 
 None listed yet.
 

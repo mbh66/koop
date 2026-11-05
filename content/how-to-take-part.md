@@ -10,7 +10,7 @@ draft: false
 updated: 2026-11-05
 ---
 
-Taking part costs nothing and commits you to nothing. The co-operative does not exist yet, so nobody is a member until it is formed and registered.
+Taking part costs nothing and commits you to nothing. The cooperative does not exist yet, so nobody is a member until it is formed and registered.
 
 ## Join the conversation
 
@@ -25,7 +25,7 @@ Things to send:
 
 - An item for the next meeting's agenda.
 - A correction to the notes of a meeting.
-- What you grow or make, where, and what you could offer the co-operative, if you want to be listed on [[members/index|Who Is Taking Part]].
+- What you grow or make, where, and what you could offer the cooperative, if you want to be listed on [[members/index|Who Is Taking Part]].
 - A question the group should work on, for [[open-questions|Open Questions]].
 - A document the group should see, such as a guide to registration or a grant notice.
 
@@ -33,7 +33,7 @@ The editor adds a page within a few days and tells the group when it is up. If y
 
 ## Your name and contact details
 
-Koop works in the open, so members can find and call each other. When you join, the editor lists you on [[members/index|Who Is Taking Part]] with your full name, village, phone number, email if you give one, and what you grow or offer. Your name also appears in meeting notes and in the actions you take on. By joining the WhatsApp group, you agree to this. Everyone already taking part has agreed.
+Koop works in the open, so members can find and call each other. When you join, the editor lists you on [[members/index|Who Is Taking Part]] with your full name, town, phone number, email if you give one, and what you grow or offer. Your name also appears in meeting notes and in the actions you take on. By joining the WhatsApp group, you agree to this. Everyone already taking part has agreed.
 
 The site never shows ID numbers, street addresses or bank details.
 

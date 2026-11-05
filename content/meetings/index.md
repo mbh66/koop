@@ -10,7 +10,7 @@ draft: false
 updated: 2026-11-05
 ---
 
-The group meets once a week to plan the co-operative. Anyone who is interested may come.
+The group meets once a week to plan the cooperative. Anyone who is interested may come.
 
 ## When and where
 

@@ -12,7 +12,7 @@ updated: 2026-11-05
 
 This page lists what the group has agreed. If something is not on this list, it has not been decided, however often it has been discussed.
 
-A decision is added here only when it was taken at a meeting and appears in that meeting's notes. Until the co-operative is registered and has a constitution, these are decisions of an informal group of interested people. They do not bind anyone.
+A decision is added here only when it was taken at a meeting and appears in that meeting's notes. Until the cooperative is registered and has a constitution, these are decisions of an informal group of interested people. They do not bind anyone.
 
 ## The decisions
 

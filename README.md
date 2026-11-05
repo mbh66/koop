@@ -1,6 +1,6 @@
 # Koop
 
-Working space for people in the Valley of Grace planning the Valley of Grace Agri-Heritage Co-operative together, in support of their weekly meetings.
+Working space for people in the Valley of Grace planning the Valley of Grace Agri-Heritage Cooperative together, in support of their weekly meetings.
 
 - Live site: https://koop.valleyofgrace.co.za
 - Built with [Quartz v5](https://quartz.jzhao.xyz/) from the `content/` folder; deployed to GitHub Pages from the `v5` branch by `.github/workflows/deploy.yml`.

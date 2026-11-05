@@ -1,6 +1,6 @@
 ---
 title: The Route to Registration
-description: "The steps from a group of interested people to a registered co-operative, following the suggested route on the Forum's site, with what the group has done at each step."
+description: "The steps from a group of interested people to a registered cooperative, following the suggested route on the Forum's site, with what the group has done at each step."
 type: page
 tags:
   - koop/registration
@@ -12,21 +12,21 @@ right_of_reply: pending
 updated: 2026-11-05
 ---
 
-This page tracks the group's progress towards a registered co-operative. It follows [Starting a Co-operative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative) on the Forum's site, which is itself still to be tabled at the Forum's November 2026 meeting [MS]. The government offices and training providers named below have not been asked about this page.
+This page tracks the group's progress towards a registered cooperative. It follows [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative) on the Forum's site, which is itself still to be tabled at the Forum's November 2026 meeting [MS]. The government offices and training providers named below have not been asked about this page.
 
 ## What the law requires
 
-- South Africa's Co-operatives Act of 2005, amended in 2013, sets out how co-operatives are formed and run [IC].
-- A primary co-operative can be formed by at least five people, by two organisations, or by a mix of five [IC].
-- Co-operatives register with the Companies and Intellectual Property Commission (CIPC) [IC].
-- CIPC's model constitution for an agricultural primary co-operative gives each member one vote [IC]. Part of any surplus goes into a reserve that is never shared out, and the annual general meeting decides what happens to the rest [IC].
+- South Africa's Co-operatives Act of 2005, amended in 2013, sets out how cooperatives are formed and run [IC].
+- A primary cooperative can be formed by at least five people, by two organisations, or by a mix of five [IC].
+- Cooperatives register with the Companies and Intellectual Property Commission (CIPC) [IC].
+- CIPC's model constitution for an agricultural primary cooperative gives each member one vote [IC]. Part of any surplus goes into a reserve that is never shared out, and the annual general meeting decides what happens to the rest [IC].
 
 ## Stage 1: Gather
 
 | Step | Done? | Notes |
 |---|---|---|
 | Meet everyone interested and record what each person does, where, and what training they have | Not yet | See [[members/index\|Who Is Taking Part]] |
-| Choose a structure: one co-operative, or smaller ones that later join a larger one | Not yet | |
+| Choose a structure: one cooperative, or smaller ones that later join a larger one | Not yet | |
 | Ask the SETA, the agriculture office and the municipality's Economic Development office the questions the route lists | Not yet | |
 | Tell the Forum, so the idea can be listed | Not yet | |
 
@@ -50,7 +50,7 @@ This page tracks the group's progress towards a registered co-operative. It foll
 
 ## Stage 4: Link up
 
-After the first AGM, the co-operative could join or form a secondary co-operative with other operational co-operatives doing similar work in the Overberg [MS].
+After the first AGM, the cooperative could join or form a secondary cooperative with other operational cooperatives doing similar work in the Overberg [MS].
 
 ## Land on the mission settlements
 
@@ -64,6 +64,6 @@ Any use of land in Genadendal, Bereaville, Voorstekraal, Boschmanskloof or Madib
 
 ## References
 
-- Ward 2 Development Forum. [Starting a Co-operative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative). The four stages and their steps.
-- Companies and Intellectual Property Commission (CIPC). [Co-operative registration](https://www.cipc.co.za/?page_id=2197). Types of co-operative and who registers them.
-- Companies and Intellectual Property Commission (CIPC). [Model constitution for an agricultural primary co-operative](https://www.cipc.co.za/wp-content/uploads/2021/05/AGRICULTURAL_CO-OP_FIX_2018.pdf). Voting and use of surplus.
+- Ward 2 Development Forum. [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative). The four stages and their steps.
+- Companies and Intellectual Property Commission (CIPC). [Cooperative registration](https://www.cipc.co.za/?page_id=2197). Types of cooperative and who registers them.
+- Companies and Intellectual Property Commission (CIPC). [Model constitution for an agricultural primary cooperative](https://www.cipc.co.za/wp-content/uploads/2021/05/AGRICULTURAL_CO-OP_FIX_2018.pdf). Voting and use of surplus.
