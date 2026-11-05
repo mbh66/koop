@@ -3,8 +3,8 @@ filters:
     - file.ext == "md"
     - type == "member"
     - draft != true
-    - '!file.inFolder("templates")'
-    - '!file.inFolder("private")'
+    - '!file.path.contains("templates/")'
+    - '!file.path.contains("private/")'
 formulas:
   person: file.asLink(title)
 properties:
