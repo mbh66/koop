@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Voorstekraal
-phone: "062 892 7892"
+phone: "0628927892"
 skills: []
 passions: []
 date: 2026-11-05

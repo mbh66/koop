@@ -5,7 +5,7 @@ type: member
 tags:
   - koop/member
   - lang/en
-phone: "072 238 5095"
+phone: "0722385095"
 skills: []
 passions: []
 date: 2026-11-05

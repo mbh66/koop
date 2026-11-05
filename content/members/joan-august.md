@@ -5,7 +5,7 @@ type: member
 tags:
   - koop/member
   - lang/en
-phone: "077 489 3275"
+phone: "0774893275"
 skills: []
 passions: []
 date: 2026-11-05

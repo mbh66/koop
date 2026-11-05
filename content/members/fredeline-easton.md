@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Boschmanskloof
-phone: "067 865 6462"
+phone: "0678656462"
 skills: []
 passions: []
 date: 2026-11-05

@@ -5,7 +5,7 @@ type: member
 tags:
   - koop/member
   - lang/en
-phone: "073 540 4553"
+phone: "0735404553"
 skills: []
 passions: []
 date: 2026-11-05

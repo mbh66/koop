@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Genadendal
-phone: "065 206 6525"
+phone: "0652066525"
 skills: []
 passions: []
 date: 2026-11-05

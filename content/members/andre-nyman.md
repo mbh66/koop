@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Voorstekraal
-phone: "076 659 8760"
+phone: "0766598760"
 skills: []
 passions: []
 date: 2026-11-05

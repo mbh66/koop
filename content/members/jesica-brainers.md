@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Bereaville
-phone: "072 773 5568"
+phone: "0727735568"
 skills: []
 passions: []
 date: 2026-11-05

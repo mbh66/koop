@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Voorstekraal
-phone: "083 682 6564"
+phone: "0836826564"
 skills: []
 passions: []
 date: 2026-11-05

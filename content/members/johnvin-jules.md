@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Bereaville
-phone: "066 030 2169"
+phone: "0660302169"
 skills: []
 passions: []
 date: 2026-11-05

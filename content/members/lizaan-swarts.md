@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Genadendal
-phone: "076 305 4172"
+phone: "0763054172"
 skills: []
 passions: []
 date: 2026-11-05

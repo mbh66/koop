@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: TOWN
-phone: "0XX XXX XXXX"
+phone: "0XXXXXXXXX"
 email: 
 skills: []
 passions: []

@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Voorstekraal
-phone: "060 601 7595"
+phone: "0606017595"
 skills: []
 passions: []
 date: 2026-11-05

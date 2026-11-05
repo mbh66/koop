@@ -5,7 +5,7 @@ type: member
 tags:
   - koop/member
   - lang/en
-phone: "084 547 8038"
+phone: "0845478038"
 skills: []
 passions: []
 date: 2026-11-05

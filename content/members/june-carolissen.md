@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Bereaville
-phone: "061 127 2844"
+phone: "0611272844"
 skills: []
 passions: []
 date: 2026-11-05

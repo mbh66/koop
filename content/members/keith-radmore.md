@@ -6,7 +6,7 @@ tags:
   - koop/member
   - lang/en
 town: Greyton
-phone: "082 446 6977"
+phone: "0824466977"
 skills: []
 passions: []
 date: 2026-11-05
