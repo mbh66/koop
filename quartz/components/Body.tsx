@@ -1,7 +1,9 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 // GTranslate settings. The widget renders into .gtranslate_wrapper.
-const gtranslateSettings = `window.gtranslateSettings = {"default_language":"en","detect_browser_language":true,"languages":["en","af","xh","st","zu"],"wrapper_selector":".gtranslate_wrapper"};`
+// This is the setting the live widget uses. The gtranslate plugin's options in
+// quartz.config.yaml are kept the same (en, af) but do not override this line.
+const gtranslateSettings = `window.gtranslateSettings = {"default_language":"en","detect_browser_language":true,"languages":["en","af"],"wrapper_selector":".gtranslate_wrapper"};`
 
 // Quartz's SPA router (enableSPA) replaces the page on every internal link:
 // it empties .gtranslate_wrapper (the new page's copy is empty) and removes

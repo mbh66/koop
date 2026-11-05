@@ -22,6 +22,9 @@ function u2(e2, t2, n2, o2, i2, u3) {
 var GTranslate_default = ((opts) => {
   const defaultLang = opts?.defaultLanguage ?? "en";
   const detectBrowser = opts?.detectBrowserLanguage ?? true;
+  // languages: optional list of language codes to offer, e.g. ["en", "af"].
+  // Left out, the widget offers every language GTranslate supports.
+  const languages = Array.isArray(opts?.languages) && opts.languages.length ? opts.languages : null;
 
   const GTranslate = ({ displayClass }) => {
     return u2("div", { class: `gtranslate_wrapper ${displayClass ?? ""}` });
@@ -32,7 +35,8 @@ var GTranslate_default = ((opts) => {
   GTranslate.afterDOMLoaded = `
     window.gtranslateSettings = {
       "default_language": "${defaultLang}",
-      "detect_browser_language": ${detectBrowser},
+      "detect_browser_language": ${detectBrowser},${languages ? `
+      "languages": ${JSON.stringify(languages)},` : ""}
       "wrapper_selector": ".gtranslate_wrapper"
     };
     var s = document.createElement("script");

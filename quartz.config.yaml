@@ -250,6 +250,9 @@ plugins:
     options:
       defaultLanguage: "en"
       detectBrowserLanguage: true
+      languages:
+        - en
+        - af
     layout:
       position: afterBody
       priority: 60
