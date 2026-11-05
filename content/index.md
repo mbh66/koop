@@ -14,7 +14,7 @@ updated: 2026-11-05
 
 The high-level idea behind it is explained on the Ward 2 Development Forum's site: [Valley of Grace Agri-Heritage Cooperative](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative). Growers in the valley would own one business together. Each keeps their own farm or garden, and the cooperative does what is hard for one small grower to do alone: buying in bulk, processing, marketing, selling under one name, hosting visitors, and training.
 
-> [!warning] Nothing on this site is agreed yet
+> [!warning] Nothing on this site is agreed yet, and ANYTHING can be changed
 > The cooperative does not exist yet. It has not been registered, and the idea is still to be agreed by those who have expressed interest. Pages on this site record what the group is discussing. A decision counts only once the group has taken it at a meeting and it appears on [[decisions/index|Decisions]].
 
 > [!tip] Read this site in your language
