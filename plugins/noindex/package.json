@@ -1,0 +1,29 @@
+{
+  "name": "noindex",
+  "version": "1.0.0",
+  "description": "Adds a robots meta tag to every page so search engines leave the site out of their results",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "noindex",
+    "displayName": "No Index",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "content": "noindex, nofollow, noarchive"
+    },
+    "optionSchema": {
+      "content": { "type": "string" }
+    }
+  }
+}
