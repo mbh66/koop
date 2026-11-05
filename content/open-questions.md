@@ -37,10 +37,17 @@ These are the questions the group needs to answer before the cooperative can be 
 
 - Whether the cooperative would also need a separate trading company, or a nonprofit for training, to keep grant money and business income apart.
 - How the board would be chosen before the first AGM.
+- How the group agrees its shared values and the story its brand tells, and how both fit into a strategic plan. Raised at the [[meetings/2026-11-05-meeting|meeting of 5 November 2026]].
+
+## Premises and security
+
+- Where the cooperative would process and make its products, and where it would store them. Raised at the [[meetings/2026-11-05-meeting|meeting of 5 November 2026]].
+- How members' gardens would be kept safe from theft and damage, and whether to work with the Community Police Forum and neighbourhood watches. Neither has been asked yet. Raised at the [[meetings/2026-11-05-meeting|meeting of 5 November 2026]].
 
 ## Working with others
 
 - How the cooperative would work beside existing food projects and markets, such as [Valley Food Gardens](https://df.valleyofgrace.co.za/economic/farmers-land-water/valley-food-gardens) and [Greyton Village Market](https://df.valleyofgrace.co.za/economic/business/greyton-village-market), so that it adds to their work. Neither has been asked yet.
+- Whether and how the cooperative would grow food for the valley's soup kitchens, and how it would report to their funders. The soup kitchens have not been asked yet. Raised at the [[meetings/2026-11-05-meeting|meeting of 5 November 2026]].
 - Whether the Overberg's district plan is in place, and what it says about farming.
 
 ## Adding a question

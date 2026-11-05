@@ -18,7 +18,9 @@ A decision is added here only when it was taken at a meeting and appears in that
 
 | Date | Decision | Meeting |
 |---|---|---|
-| | None yet. | |
+| 5 November 2026 | The group will meet once a week. | [[meetings/2026-11-05-meeting\|5 November 2026]] |
+| 5 November 2026 | The next meeting is on Sunday 8 November 2026 at 14:00, and each person brings their own idea or business plan on paper. | [[meetings/2026-11-05-meeting\|5 November 2026]] |
+| 5 November 2026 | Two people from each community will bring formal proposals for the future cooperative's board. | [[meetings/2026-11-05-meeting\|5 November 2026]] |
 
 ## Changing a decision
 
