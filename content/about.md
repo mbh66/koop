@@ -28,9 +28,10 @@ The idea for the co-operative came from a group of growers in Genadendal and was
 
 The site is public. Anyone with the address can read it, though it asks search engines to leave it out of their results. Write and post only what you are happy for anyone to read.
 
-- Names of members appear only with that person's agreement. See [[members/index|Who Is Taking Part]].
-- No phone numbers, ID numbers, home addresses or bank details ever go on a page.
-- Prices, quotes and other people's business details stay in the WhatsApp group until the people concerned agree to share them.
+- Everyone taking part has agreed that their name and contact details are listed, so members can reach each other directly. See [[members/index|Who Is Taking Part]].
+- ID numbers, street addresses and bank details never go on a page.
+- Prices, quotes and the details of people outside the group stay in the WhatsApp group until the people concerned agree to share them.
+- Anyone can ask for their details to be removed, and they are removed straight away.
 
 ## What the letters in square brackets mean
 

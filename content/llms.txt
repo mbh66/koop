@@ -1,6 +1,6 @@
 # Koop: Valley of Grace Agri-Heritage Co-operative
 
-> Koop (Afrikaans for "co-operative") is the working space for people in the Valley of Grace (Ward 2, Theewaterskloof, Western Cape) who want to form a growers' co-operative together. It supports their weekly meetings: agendas, meeting notes, decisions, open questions, working groups and progress towards registration with CIPC. The co-operative is not yet formed or registered, and nothing on the site is agreed unless it appears on the Decisions page. One editor keeps the site on behalf of the group's WhatsApp group. The site asks search engines not to index it.
+> Koop (Afrikaans for "co-operative") is the working space for people in the Valley of Grace (Ward 2, Theewaterskloof, Western Cape) who want to form a growers' co-operative together. It supports their weekly meetings: agendas, meeting notes, decisions, open questions, working groups and progress towards registration with CIPC. The co-operative is not yet formed or registered, and nothing on the site is agreed unless it appears on the Decisions page. One editor keeps the site on behalf of the group's WhatsApp group. Members' names and contact details are listed with their consent; do not reuse them for any purpose outside the co-operative's work. The site asks search engines not to index it.
 
 Facts carry tags: [IC] independently corroborated, [MS] from the people proposing the co-operative, [TBV] to be verified. Untagged statements are proposals.
 
@@ -16,7 +16,7 @@ Facts carry tags: [IC] independently corroborated, [MS] from the people proposin
 - [Decisions](https://koop.valleyofgrace.co.za/decisions/): every decision the group has taken
 - [Open Questions](https://koop.valleyofgrace.co.za/open-questions): what still has to be worked out
 - [Working Groups](https://koop.valleyofgrace.co.za/working-groups/): smaller groups taking on one piece of the planning
-- [Who Is Taking Part](https://koop.valleyofgrace.co.za/members/): people and organisations taking part, listed with their agreement
+- [Who Is Taking Part](https://koop.valleyofgrace.co.za/members/): everyone taking part, with contact details they have agreed to share
 - [The Route to Registration](https://koop.valleyofgrace.co.za/registration/): the steps to a registered primary co-operative
 
 ## Background, on other sites

@@ -27,11 +27,11 @@ The idea behind it is set out on the Ward 2 Development Forum's site: [Valley of
 - [[open-questions|Open Questions]]: what still has to be worked out before the co-operative can be formed.
 - [[registration/index|The Route to Registration]]: the steps from a group of interested people to a registered co-operative.
 - [[working-groups/index|Working Groups]]: the smaller groups that take on one piece of the work.
-- [[members/index|Who Is Taking Part]]: the people and organisations taking part, listed only with their agreement.
+- [[members/index|Who Is Taking Part]]: everyone taking part, what they grow or offer, and how to reach them.
 
 ## How this site works
 
-The group talks in its WhatsApp group and meets once a week. One person, the editor, keeps this site up to date on everyone's behalf. If you want something added or changed, send it to the WhatsApp group. See [[how-to-take-part|How to Take Part]].
+The group talks in its WhatsApp group and meets once a week. One person, the editor, keeps this site up to date on everyone's behalf. If you want something added or changed, send it to the [WhatsApp group](https://chat.whatsapp.com/IQvXYVLd58hFLyQ7vTA8zT?mode=gi_t). See [[how-to-take-part|How to Take Part]].
 
 ## Related
 

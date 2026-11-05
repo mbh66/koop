@@ -22,13 +22,13 @@ Weekly meeting of the Koop group, held at PLACE (and online) on DAY DD Month YYY
 
 ## Who came
 
-First names of those who agreed to be listed, and a count of everyone present.
+Full names of everyone present.
 
 ## What was discussed
 
 ### ITEM
 
-Short notes on what was said. Record views as the group's discussion, without naming who said what unless the person asks.
+Short notes on what was said. Record views as the group's discussion. Name who said what only where it matters for the record.
 
 ## Decisions
 

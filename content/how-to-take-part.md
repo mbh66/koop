@@ -14,7 +14,7 @@ Taking part costs nothing and commits you to nothing. The co-operative does not 
 
 ## Join the conversation
 
-1. **The WhatsApp group.** This is where the group talks between meetings. Ask someone already in the group to add you.
+1. **The WhatsApp group.** This is where the group talks between meetings. [Join the Koop WhatsApp group](https://chat.whatsapp.com/IQvXYVLd58hFLyQ7vTA8zT?mode=gi_t). Please read *Your name and contact details* below first.
 2. **The weekly meeting.** The day, time and place of the next meeting are on [[meetings/index|Weekly Meetings]].
 
 ## Get something onto this site
@@ -31,9 +31,13 @@ Things to send:
 
 The editor adds a page within a few days and tells the group when it is up. If you see a mistake, say so in the group and it will be fixed.
 
-## Being listed by name
+## Your name and contact details
 
-Your name goes on the site only if you say in the group, or in writing to the editor, that you agree. You can ask for it to be removed at any time. Contact details are never published; people reach each other through the WhatsApp group.
+Koop works in the open, so members can find and call each other. When you join, the editor lists you on [[members/index|Who Is Taking Part]] with your full name, village, phone number, email if you give one, and what you grow or offer. Your name also appears in meeting notes and in the actions you take on. By joining the WhatsApp group, you agree to this. Everyone already taking part has agreed.
+
+The site never shows ID numbers, street addresses or bank details.
+
+You can ask the editor to remove your contact details, or your whole listing, at any time. It is done straight away.
 
 ## Related
 

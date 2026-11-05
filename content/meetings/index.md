@@ -31,7 +31,7 @@ None yet.
 ## How the notes are kept
 
 - The editor posts the agenda before the meeting and the notes within a few days after it.
-- The notes record who came (by first name, and only for those who agree), what was discussed, what was decided, and who said they would do what by when.
+- The notes record who came, what was discussed, what was decided, and who said they would do what by when.
 - A decision taken at a meeting is also added to [[decisions/index|Decisions]].
 - Anyone who was at the meeting can ask for a correction in the WhatsApp group. Corrections are made and dated on the page.
 

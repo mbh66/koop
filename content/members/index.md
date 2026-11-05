@@ -1,6 +1,6 @@
 ---
 title: Who Is Taking Part
-description: "The people and organisations who have said they are interested in joining the co-operative, what each grows or offers, and where. Listed only with each person's agreement."
+description: "Everyone taking part in planning the co-operative: name, village, how to reach them, and what each grows or offers. Everyone listed has agreed to appear here."
 type: page
 tags:
   - koop/member
@@ -16,24 +16,24 @@ Nobody listed here is a member of a co-operative yet. Membership starts only whe
 
 ## How people are listed
 
-- A person is listed only after they have agreed, in the WhatsApp group or in writing to the editor. The editor keeps a note of each agreement off the site.
-- A listing gives a first name or the name the person chooses, the village, and what they grow, make or offer. Nothing more.
-- No phone numbers, addresses or ID numbers. People reach each other through the WhatsApp group.
-- Anyone can ask to be removed, and is removed straight away.
+- Everyone taking part has agreed to be listed with their contact details, so members can reach each other directly. People who join later agree when they join. See [[how-to-take-part|How to Take Part]].
+- A listing gives the person's full name, village, phone number, email if they give one, and what they grow, make or offer.
+- No ID numbers, street addresses or bank details.
+- Anyone can ask for their contact details, or their whole listing, to be removed, and they are removed straight away.
 
 ## Growers
 
-| Name | Village | Grows or keeps | Could offer the co-operative |
-|---|---|---|---|
-| | | None listed yet. | |
+| Name | Village | Phone | Email | Grows or keeps | Could offer the co-operative |
+|---|---|---|---|---|---|
+| | | | | None listed yet. | |
 
 ## Others with skills to offer
 
 Processing, selling, guiding, training, bookkeeping, transport and similar.
 
-| Name | Village | Skill | Could offer the co-operative |
-|---|---|---|---|
-| | | None listed yet. | |
+| Name | Village | Phone | Email | Skill | Could offer the co-operative |
+|---|---|---|---|---|---|
+| | | | | None listed yet. | |
 
 ## Organisations
 

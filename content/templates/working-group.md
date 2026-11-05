@@ -14,7 +14,7 @@ The NAME working group was set up at the meeting of [[meetings/YYYY-MM-DD|DD Mon
 
 ## Who is in it
 
-First names of those who agreed to be listed.
+Full names of the people in the group.
 
 ## What it was asked to do
 
