@@ -234,7 +234,7 @@ plugins:
     enabled: true
     options:
       copyrightHolder: Genadendal Koop
-      notice: "<b>About:</b> The working space for valley growers and others planning the Genadendal Cooperative together. Nothing here is agreed until the members decide it."
+      notice: "<b>About:</b> The working space for valley growers and others planning the Genadendal Cooperative together. Nothing here is agreed until the members decide it. If you spot an error, send a message via the WhatsApp group."
       links:
         About the Koop: /about
         How to Take Part: /how-to-take-part

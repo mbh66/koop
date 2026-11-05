@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Cooperative
+title: "Welcome to Koop: the Planning Website for the Genadendal Cooperative"
 description: Koop is the working space for people in the valley who want to form a growers' cooperative together. It holds the weekly meeting notes, the decisions taken so far, and the questions still open.
 type: page
 tags:
@@ -10,7 +10,7 @@ draft: false
 updated: 2026-11-05
 ---
 
-*Koop* is Afrikaans for Cooperative. This site is where those who want to join a growers' cooperative plan it together, between and during their weekly meetings.
+This site is where those who want to join a growers' cooperative plan it together, between and during their weekly meetings.
 
 The high-level idea behind it is explained on the DevForum's site: [Valley of Grace Agri-Heritage Cooperative](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative). Growers in the valley would own one business together. Each keeps their own farm or garden, and the cooperative does what is hard for one small grower to do alone: buying in bulk, processing, marketing, selling under one name, hosting visitors, and training.
 
@@ -35,6 +35,6 @@ The group chats in its WhatsApp group and meets once a week. One person, the edi
 
 ## Related
 
-- [[about|About Koop]]
+- [[about|About the Koop]]
 - [Starting a Cooperative in the Valley: A Suggested Route](https://df.valleyofgrace.co.za/concepts/starting-a-co-operative) (on the DevForum's site)
 - [DevForum](https://df.valleyofgrace.co.za)
