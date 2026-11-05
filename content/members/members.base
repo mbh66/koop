@@ -1,0 +1,51 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "member"
+    - draft != true
+    - '!file.inFolder("templates")'
+    - '!file.inFolder("private")'
+formulas:
+  person: file.asLink(title)
+properties:
+  formula.person:
+    displayName: Name
+  town:
+    displayName: Town
+  phone:
+    displayName: Phone
+  email:
+    displayName: Email
+  skills:
+    displayName: Skills
+  passions:
+    displayName: Passions
+  offers:
+    displayName: Offers
+views:
+  - type: table
+    name: Everyone
+    order:
+      - formula.person
+      - town
+      - phone
+      - skills
+      - passions
+      - offers
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By town
+    groupBy:
+      property: town
+      direction: ASC
+    order:
+      - formula.person
+      - phone
+      - skills
+      - passions
+      - offers
+    sort:
+      - property: title
+        direction: ASC
