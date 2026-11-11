@@ -1,13 +1,15 @@
 ---
 title: June Carolissen
-description: "June Carolissen from Bereaville is taking part in planning the Genadendal Cooperative."
+description: June Carolissen from Bereaville is taking part in planning the Genadendal Cooperative.
 type: member
 tags:
   - koop/member
   - lang/en
 town: Bereaville
 phone: "0611272844"
-skills: []
+skills:
+  - cooking
+  - growing
 passions: []
 date: 2026-11-05
 draft: false

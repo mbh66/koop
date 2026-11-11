@@ -45,6 +45,6 @@ Statements without a tag are proposals. They describe what the cooperative *coul
 
 ## Related
 
-- [[index|Welcome to Koop]]
+- [[koop/index|Welcome to Koop]]
 - [[how-to-take-part|How to Take Part]]
 - [Valley of Grace Agri-Heritage Cooperative](https://df.valleyofgrace.co.za/concepts/valley-of-grace-agri-heritage-co-operative) (the idea, on the DevForum's site)

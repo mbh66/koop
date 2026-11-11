@@ -1,11 +1,11 @@
 ---
 title: Sharl Delport
-description: Sharl Delport from Boschmanskloof is taking part in planning the Genadendal Cooperative.
+description: Sharl Delport from Greyton is taking part in planning the Genadendal Cooperative.
 type: member
 tags:
   - koop/member
   - lang/en
-town: Boschmanskloof
+town: Greyton
 phone: "0678656462"
 skills: []
 passions: []
@@ -14,7 +14,7 @@ draft: false
 updated: 2026-11-05
 ---
 
-Sharl Delport lives in Boschmanskloof and joined the Koop WhatsApp group to take part in planning the cooperative.
+Sharl Delport lives in Greyton and joined the Koop WhatsApp group to take part in planning the cooperative.
 
 ## Skills
 
